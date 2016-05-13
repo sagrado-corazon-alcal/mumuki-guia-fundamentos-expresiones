@@ -1,0 +1,28 @@
+subject: PonerSuma
+
+examples:
+ - arguments:
+   - 2
+   - 3
+   initial_board: |
+     GBB/1.0
+     size 2 2 
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 2
+     cell 0 0 Rojo 5
+     head 0 0
+     
+ - arguments:
+   - 4
+   - 7
+   initial_board: |
+     GBB/1.0
+     size 2 2 
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 2
+     cell 0 0 Rojo 11
+     head 0 0     
