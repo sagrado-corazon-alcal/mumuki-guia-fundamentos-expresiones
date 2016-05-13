@@ -1,3 +1,5 @@
+check_head_position: true
+
 subject: CaminarDesconfiado
 
 examples:
