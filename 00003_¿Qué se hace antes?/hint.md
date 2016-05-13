@@ -1,0 +1,1 @@
+Ah, un detalle: la multiplicación en Gobstones se hace con el símbolo `*` (por ejemplo, `3 * 2`).

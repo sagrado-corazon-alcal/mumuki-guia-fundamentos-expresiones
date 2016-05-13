@@ -1,0 +1,3 @@
+En Gobstones, como en la matemática, existe la idea de **precedencia de operadores**. 
+
+En criollo, esto quiere decir que hay ciertas operaciones que se hacen antes que otras, sin la necesidad de usar paréntesis para ello. En particular, el orden es: primero las multiplicaciones y divisiones, luego las sumas y las restas (de nuevo, como en matemática).
