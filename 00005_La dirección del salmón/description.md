@@ -1,0 +1,22 @@
+Bueno, basta de números (por un ratito). Ahora vamos a aprender a hacer "cuentas" con las direcciones.
+
+Para hacer esto, simularemos el movimiento de un salmón: en contra de la corriente. Nuestro objetivo será escribir un procedimiento `MoverComoSalmon(direccion)` que reciba una dirección y se mueva exactamente una vez en la dirección **opuesta**. Veamos en una tabla cómo debería comportarse este procedimiento:
+
+|Uso|Efecto esperado|
+|---|---------------|
+|`MoverComoSalmon(Norte)`|Se mueve hacia el **Sur**.|
+|`MoverComoSalmon(Este)`|Se mueve hacia el **Oeste**.|
+|`MoverComoSalmon(Sur)`|Se mueve hacia el **Norte**.|
+|`MoverComoSalmon(Oeste)`|Se mueve hacia el **Este**.|
+
+Como la dirección va a ser un parámetro de nuestro procedimiento, necesitamos una forma de decir _"la dirección opuesta a X"_ para poder luego usar esto como argumento de `Mover`. Gobstones nos provee un mecanismo para hacer esto, la función `opuesto(dir)`, que nos dice exactamente eso: la dirección contraria a la `dir` que nosotros le pasemos.
+
+Sabiendo esto, podríamos implementar fácilmente el procedimiento que queríamos, veamos:
+
+```puppet
+procedure MoverComoSalmon(direccion) {
+  Mover(opuesto(direccion))
+}
+```
+
+> Copiá la solución en el editor y dale Enviar. Vas a ver cómo se mueve el cabezal...
