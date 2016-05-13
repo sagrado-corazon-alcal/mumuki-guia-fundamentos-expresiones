@@ -3,7 +3,7 @@ Bueno, basta de números (por un ratito). Ahora vamos a aprender a hacer "cuenta
 Para hacer esto, simularemos el movimiento de un salmón: en contra de la corriente. Nuestro objetivo será escribir un procedimiento `MoverComoSalmon(direccion)` que reciba una dirección y se mueva exactamente una vez en la dirección **opuesta**. Veamos en una tabla cómo debería comportarse este procedimiento:
 
 |Uso|Efecto esperado|
-|---|---------------|
+|:---:|:---------------:|
 |`MoverComoSalmon(Norte)`|Se mueve hacia el **Sur**.|
 |`MoverComoSalmon(Este)`|Se mueve hacia el **Oeste**.|
 |`MoverComoSalmon(Sur)`|Se mueve hacia el **Norte**.|
