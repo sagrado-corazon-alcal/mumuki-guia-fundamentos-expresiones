@@ -12,7 +12,7 @@ examples:
    final_board: |
      GBB/1.0
      size 2 2
-     cell 0 0 Verde 90
+     cell 0 0 Verde 100
      head 0 0
      
  - arguments:
@@ -26,5 +26,5 @@ examples:
    final_board: |
      GBB/1.0
      size 2 2
-     cell 0 0 Verde 90
+     cell 0 0 Verde 674
      head 0 0     
