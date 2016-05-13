@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: MoverComoSalmon
+  inspection: HasUsage:opuesto
+- binding: MoverComoSalmon
+  inspection: HasArity:1

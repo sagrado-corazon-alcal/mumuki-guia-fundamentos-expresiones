@@ -1,0 +1,1 @@
+Acordate que podés usar `MoverN(cantidad, direccion)`.

@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: CaminarDesconfiado
+  inspection: HasArity:1
+- binding: CaminarDesconfiado
+  inspection: HasUsage:MoverN
