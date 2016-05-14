@@ -25,7 +25,7 @@ examples:
    - 2
    initial_board: |
      GBB/1.0
-     size 2 2
+     size 4 2
      head 1 1
    final_board: |
      GBB/1.0
