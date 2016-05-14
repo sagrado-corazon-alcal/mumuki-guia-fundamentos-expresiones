@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: SacarTodas
+  inspection: HasUsage:nroBolitas
+- binding: SacarTodas
+  inspection: HasUsage:SacarN
