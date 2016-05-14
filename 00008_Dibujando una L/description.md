@@ -8,4 +8,6 @@ Indudablemente, una L consta de dos líneas y dibujar una línea es la tarea que
 
 La primera línea es fácil, porque coincide con la dirección que recibimos por parámetro... ¿pero la segunda? Bueno, ahí viene lo interesante: además de `opuesto`, Gobstones nos provee dos funciones más para operar sobre las direcciones, `siguiente` y `previo`.
 
+![Rosa de los vientos](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-expresiones/master/images/rosa-de-los-vientos.png)
+
 > Escribí el procedimiento `Ele(direccion)` que haga lo pedido.
