@@ -1,3 +1,6 @@
-Combinando las tres funciones de direcciones que vimos hasta ahora, implementá el procedimiento `Flecha(direccion)` que dibuje una flecha roja en la dirección correspondiente. El cabezal debe quedar donde empezó.
+Combinando las tres funciones de direcciones que vimos hasta ahora, implementá el procedimiento `Flecha(direccion)` que dibuje una flecha roja en la dirección correspondiente.
 
 Ejemplos de uso:
+|Flecha(Norte)|Flecha(Oeste)|
+|:--------:|:-------:|
+|![Flecha(Norte)](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-expresiones/master/images/flecha-norte.png)|![Flecha(Oeste)](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-expresiones/master/images/flecha-oeste.png)|
