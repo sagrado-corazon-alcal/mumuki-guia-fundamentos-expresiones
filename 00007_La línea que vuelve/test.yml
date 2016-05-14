@@ -26,10 +26,10 @@ examples:
    initial_board: |
      GBB/1.0
      size 4 2
-     head 1 1
+     head 3 1
    final_board: |
      GBB/1.0
      size 4 2
-     cell 1 1 Rojo 1
-     cell 0 1 Rojo 1
-     head 1 1
+     cell 3 1 Rojo 1
+     cell 2 1 Rojo 1
+     head 3 1
