@@ -2,7 +2,7 @@ Nuestro objetivo en este ejercicio será realizar un procedimiento capaz de dibu
 
 |Ele(Norte)|Ele(Este)|
 |----------|---------|
-|imagen|imagen|
+|![Ele(Norte)](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-expresiones/master/images/ele-norte.png)|![Ele(Este)](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-expresiones/master/images/ele-este.png)|
 
 Indudablemente, una L consta de dos líneas y dibujar una línea es la tarea que ya resolviste en el ejercicio anterior. Así que por ese lado, tenemos la mitad del problema resuelto.
 
