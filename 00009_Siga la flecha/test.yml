@@ -3,7 +3,7 @@ check_head_position: true
 subject: Flecha
 
 examples:
-- arguments:
+ - arguments:
    - Oeste
    initial_board: |
      GBB/1.0
