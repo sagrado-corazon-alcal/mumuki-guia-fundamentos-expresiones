@@ -8,6 +8,6 @@ Miremos algunos ejemplos:
 * Si hay 2 bolitas verdes, hay que poner 2 bolitas rojas.
 * Si no hay bolitas verdes, no hay que poner ninguna roja.
 
-Lo que nos está faltando es una forma de **contar cuántas bolitas verdes hay**, y para eso tenemos una nueva función que nos da Gobstones: `nroBolitas(color)`. Lo que hace es simple: nos informa cuántas bolitas de un color determinado hay **en la posición actual**.
+Lo que nos está faltando es una forma de **contar cuántas bolitas verdes hay**, y para eso necesitamos otra función que nos da Gobstones: `nroBolitas(color)`. Lo que hace es simple: nos informa cuántas bolitas de un color determinado hay **en la posición actual**.
 
 > Usando `nroBolitas`, escribí el procedimiento `CopiarVerdesEnRojas()`.
