@@ -4,6 +4,12 @@ procedure PonerN(n, color) {
   }
 }
 
+procedure SacarN(n, color) {
+  repeat(n) {
+    Sacar(color)
+  }
+}
+
 procedure MoverN(n, dir) {
   repeat(n) {
     Mover(dir)
