@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: Flecha
+  inspection: HasArity:1
+- binding: Flecha
+  inspection: HasUsage:previo
+- binding: Flecha
+  inspection: HasUsage:siguiente
