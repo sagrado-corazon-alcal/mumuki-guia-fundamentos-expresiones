@@ -11,7 +11,7 @@ teacher_info: |-
 
   ### Objetivos secundarios
 
-  * Expresiones aritméticas: `+`, `-`, `*`, `div`, `mod` (no todas).
+  * Expresiones aritméticas: `+`, `-`, `*`, `div` (no todas).
   * Operaciones sobre direcciones: `opuesto`, `siguiente`, `previo`.
   * Operaciones que "leen" el estado del tablero: `nroBolitas`.
 language: gobstones
@@ -23,3 +23,4 @@ order:
 - 5
 - 4
 - 6
+- 7

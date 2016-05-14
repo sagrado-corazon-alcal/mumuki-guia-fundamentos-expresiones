@@ -1,0 +1,14 @@
+Ahora que sabés usar la función `opuesto`, podemos finalmente resolver el problema de construir un procedimiento que dibuje una línea **en cualquier dirección** y **deje el cabezal en la posición inicial**.
+
+La versión que sabíamos hacer hasta ahora era esta:
+```puppet
+procedure Linea(direccion, color, longitud) {
+  repeat(longitud) {
+    Poner(color)
+    Mover(direccion)
+  }
+}
+```
+
+> Valiéndote de los nuevos conocimientos, modificá el procedimiento `Linea` para que el cabezal quede en el lugar donde empezó.
+
