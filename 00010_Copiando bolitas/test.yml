@@ -1,0 +1,38 @@
+subject: CopiarVerdesEnRojas
+
+examples:
+ - title: Si no hay verdes, no hace nada
+   initial_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0
+     
+ - title: Si hay 2 verdes, pone 2 rojas
+   initial_board: |
+     GBB/1.0
+     size 2 2
+     cell 0 0 Verde 2
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 2
+     cell 0 0 Verde 2
+     cell 0 0 Rojo 2
+     head 0 0
+     
+ - title: Si hay 7 verdes, pone 7 rojas
+   initial_board: |
+     GBB/1.0
+     size 2 2
+     cell 0 0 Verde 7
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 2
+     cell 0 0 Verde 7
+     cell 0 0 Rojo 7
+     head 0 0
