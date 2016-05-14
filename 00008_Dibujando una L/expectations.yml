@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: Ele
+  inspection: HasArity:1
+- binding: Ele
+  inspection: HasUsage:Linea
+- binding: Ele
+  inspection: Not:HasRepeat
+- binding: Ele
+  inspection: Not:HasUsage:opuesto
