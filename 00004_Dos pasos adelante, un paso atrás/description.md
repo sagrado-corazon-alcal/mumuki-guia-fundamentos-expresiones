@@ -3,3 +3,5 @@ Tenemos un amigo llamado Carlos, que es bastante desconfiado. En su vida, eso se
 Por ejemplo, si le pidieramos que diera 2 pasos terminaría dando 1, si le pidieramos 4 daría 2, y así sucesivamente. En definitiva, lo que termina pasando es que nuestro amigo termina dando **la mitad** de los pasos que le pedimos.
 
 > Vamos a usar el cabezal de Gobstones para simular la forma de caminar de Carlos. Escribí el procedimiento `CaminarDesconfiado(pasos)`, que recibe la cantidad de pasos que debería dar y da la mitad. Siempre se mueve al Este.
+
+Ah, para dividir en Gobstones usamos el operador `div`, por ejemplo `10 div 5` da `2`.
