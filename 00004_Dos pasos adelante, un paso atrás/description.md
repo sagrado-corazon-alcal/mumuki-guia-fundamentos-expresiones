@@ -2,6 +2,6 @@ Tenemos un amigo llamado Carlos, que es bastante desconfiado. En su vida, eso se
 
 Por ejemplo, si le pidieramos que diera 2 pasos terminaría dando 1, si le pidieramos 4 daría 2, y así sucesivamente. En definitiva, lo que termina pasando es que nuestro amigo termina dando **la mitad** de los pasos que le pedimos. 
 
-**Importante:** en Gobstones usamos el operador `div` para dividir, por ejemplo `4 div 2` significa _4 dividido 2_.
+**Importante:** en Gobstones usamos el operador `div` para dividir; por ejemplo _4 dividido 2_ se escribe `4 div 2`.
 
 > Escribí el procedimiento `CaminarDesconfiado(pasos)` que simule el caminar de Carlos: debe recibir la cantidad de pasos que debería dar y dar la mitad. Siempre se mueve al Este.
