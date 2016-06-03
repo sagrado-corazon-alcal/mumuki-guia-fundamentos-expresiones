@@ -1,5 +1,5 @@
 Tenemos un amigo llamado Carlos, que es bastante desconfiado. En su vida, eso se manifiesta en muchos aspectos, pero el más notorio es su forma de caminar: sólo camina hacia el Este y siempre que da dos pasos hacia adelante automáticamente da un paso hacia atrás.
 
-Por ejemplo, si le pidieramos que diera 2 pasos terminaría dando 1, si le pidieramos 4 daría 2, y así sucesivamente. En definitiva, lo que termina pasando es que nuestro amigo termina dando **la mitad** de los pasos que le pedimos.
+Por ejemplo, si le pidieramos que diera 2 pasos terminaría dando 1, si le pidieramos 4 daría 2, y así sucesivamente. En definitiva, lo que termina pasando es que nuestro amigo termina dando **la mitad** de los pasos que le pedimos. **Importante:** en Gobstones usamos el operador `div` para dividir, por ejemplo `4 div 2` significa _4 dividido 2_.
 
 > Vamos a usar el cabezal de Gobstones para simular la forma de caminar de Carlos. Escribí el procedimiento `CaminarDesconfiado(pasos)`, que recibe la cantidad de pasos que debería dar y da la mitad. Siempre se mueve al Este.
