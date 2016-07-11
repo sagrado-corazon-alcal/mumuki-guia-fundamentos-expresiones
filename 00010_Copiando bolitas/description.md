@@ -1,6 +1,6 @@
 Supongamos ahora que queremos "copiar" las bolitas verdes, haciendo que haya la misma cantidad de rojas y pensemos cómo podría ser ese procedimiento.
 
-Una tarea que seguro tenemos que hacer es poner muchas bolitas, y para eso ya sabemos que existe el `PonerN` que construimos varios ejercios atrás. El color de las bolitas que tenemos que poner también lo sabemos: Rojo, pero... ¿cómo sabemos cuántas poner?
+Una tarea que seguro tenemos que hacer es poner muchas bolitas, y para eso ya sabemos que existe el `PonerN` que construimos varios ejercicios atrás. El color de las bolitas que tenemos que poner también lo sabemos: Rojo, pero... ¿cómo sabemos cuántas poner?
 
 Miremos algunos ejemplos:
 
