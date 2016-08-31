@@ -6,4 +6,4 @@ Contamos con la información de cuántos micros, autos y bicicletas asistieron y
 * en cada **auto** viajan **4 personas**;
 * en cada **bicicleta** viaja **1 persona**.
 
-> Implementá el procedimiento `ContarGente(micros, autos, bicicletas)` que haga las cuentas necesarias y refleje el resultado con bolitas de color verde.
+> Implementá el procedimiento `ContarGente(micros, autos, bicicletas)` que a partir de la cantida de micros, autos y bicicletas que recibe como parámetro, haga las cuentas necesarias y refleje el resultado con bolitas de color verde.
