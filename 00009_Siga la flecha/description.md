@@ -1,4 +1,4 @@
-Combinando las tres funciones de direcciones que vimos hasta ahora, implementá el procedimiento `Flecha(direccion)` que dibuje una flecha roja en la dirección correspondiente. El cabezal empieza siempre en el centro, como se ve en las imagenes.
+Combinando las tres funciones de direcciones que vimos hasta ahora, implementá el procedimiento `Flecha(direccion)` que dibuje una flecha roja en la dirección correspondiente. El cabezal empieza y debe quedar siempre en el centro, como se ve en las imagenes.
 
 Ejemplos de uso:
 
