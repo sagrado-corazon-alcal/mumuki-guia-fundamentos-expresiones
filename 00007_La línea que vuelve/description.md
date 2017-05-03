@@ -2,7 +2,7 @@ Ahora que sabés usar la función `opuesto`, podemos finalmente resolver el prob
 
 La versión que sabíamos hacer hasta ahora era esta:
 
-```puppet
+```gobstones
 procedure Linea(direccion, color, longitud) {
   repeat(longitud) {
     Poner(color)

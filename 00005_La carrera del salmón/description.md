@@ -11,7 +11,7 @@ Como la dirección va a ser un parámetro de nuestro procedimiento, necesitamos 
 
 Sabiendo esto, podríamos implementar fácilmente el procedimiento que queríamos:
 
-```puppet
+```gobstones
 procedure MoverComoSalmon(direccion) {
   Mover(opuesto(direccion))
 }
