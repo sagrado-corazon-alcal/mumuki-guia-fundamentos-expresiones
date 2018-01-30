@@ -20,8 +20,7 @@ examples:
    final_board: |
      GBB/1.0
      size 2 2
-     cell 0 0 Verde 2
-     cell 0 0 Rojo 2
+     cell 0 0 Verde 2 Rojo 2
      head 0 0
      
  - title: Si hay 7 verdes, pone 7 rojas
@@ -33,6 +32,5 @@ examples:
    final_board: |
      GBB/1.0
      size 2 2
-     cell 0 0 Verde 7
-     cell 0 0 Rojo 7
+     cell 0 0 Verde 7 Rojo 7
      head 0 0
