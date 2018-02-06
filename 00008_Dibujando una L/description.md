@@ -5,7 +5,7 @@ Nuestro objetivo en este ejercicio será realizar un procedimiento capaz de dibu
   <tr>
     <th style="text-align: center">Ele(Norte)</th>
     <th style="text-align: center"></th> 
-    <th style="text-align: center">Ele(Leste)</th>
+    <th style="text-align: center">Ele(Este)</th>
   </tr>
   </thead>
   <tbody>
