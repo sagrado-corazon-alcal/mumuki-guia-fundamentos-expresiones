@@ -1,6 +1,6 @@
 ---
 expectations:
 - binding: CopiarVerdesEnRojas
-  inspection: HasUsage:PonerN
+  inspection: Uses:PonerN
 - binding: CopiarVerdesEnRojas
-  inspection: HasUsage:nroBolitas
+  inspection: Uses:nroBolitas
