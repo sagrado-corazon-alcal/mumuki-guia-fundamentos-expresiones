@@ -1,17 +1,17 @@
-procedure PonerN(n, color) {
-  repeat(n) {
+procedure PonerN(cantidad, color) {
+  repeat(cantidad) {
     Poner(color)
   }
 }
 
-procedure SacarN(n, color) {
-  repeat(n) {
+procedure SacarN(cantidad, color) {
+  repeat(cantidad) {
     Sacar(color)
   }
 }
 
-procedure MoverN(n, dir) {
-  repeat(n) {
-    Mover(dir)
+procedure MoverN(cantidad, direccion) {
+  repeat(cantidad) {
+    Mover(direccion)
   }
 }
