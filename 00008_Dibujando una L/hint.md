@@ -1,1 +1,1 @@
-El procedimiento `Linea` recibe tres argumentos: la dirección, el color y la longitud. En este caso, lo único que no varía es la dirección: el color es siempre Azul y la longitud es siempre 3.
+El procedimiento `Linea` recibe tres argumentos: la dirección, el color y la longitud. En este caso, lo único que varía es la dirección: el color es siempre Azul y la longitud es siempre 3.
