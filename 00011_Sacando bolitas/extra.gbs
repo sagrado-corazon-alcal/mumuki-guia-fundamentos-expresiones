@@ -1,5 +1,0 @@
-procedure SacarN(cantidad, color) {
-  repeat(cantidad) {
-    Sacar(color)
-  }
-}
