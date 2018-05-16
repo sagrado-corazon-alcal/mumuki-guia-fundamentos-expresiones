@@ -1,5 +1,0 @@
-procedure MoverN(cantidad, direccion) {
-  repeat(cantidad) {
-    Mover(direccion)
-  }
-}
