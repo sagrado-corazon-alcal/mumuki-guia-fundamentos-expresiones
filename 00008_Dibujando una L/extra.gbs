@@ -6,9 +6,3 @@ procedure Linea(direccion, color, longitud) {
   
   MoverN(longitud, opuesto(direccion))
 }
-
-procedure MoverN(cantidad, direccion) {
-  repeat(cantidad) {
-    Mover(direccion)
-  }
-}
