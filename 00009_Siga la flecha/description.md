@@ -1,6 +1,6 @@
-Combinando las tres funciones de direcciones que vimos hasta ahora, implementá el procedimiento `Flecha(direccion)` que dibuje una flecha roja en la dirección correspondiente. El cabezal empieza y debe quedar siempre en el centro, como se ve en las imágenes.
+Ya vimos distintas funciones que a partir de una dirección nos permiten obtener otra distintas. 
 
-Ejemplos de uso:
+Como siempre en programación, lo interesante es combinar nuestras herramientas para lograr nuevos objetivos :sunglasses:. Por ejemplo podemos dibujar flechas en una dirección determinada de la siguiente forma:
 
 <table class= "table" style="width:100%">
   <thead>
@@ -36,3 +36,5 @@ Ejemplos de uso:
   </tr>
   <tbody>
 </table>
+
+> Definí el procedimiento `Flecha(direccion)` que dibuje una flecha roja en la dirección correspondiente. El cabezal empieza y debe quedar siempre en el centro, como se ve en las imágenes.

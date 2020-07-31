@@ -1,0 +1,1 @@
+Tené en cuenta que cada vez que nos movamos en una dirección para poner una bolita vamos a tener que volver a la dirección anterior. Por suerte tenemos una función para eso, ¿cuál? :thinking:

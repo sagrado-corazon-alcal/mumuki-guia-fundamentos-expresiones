@@ -1,4 +1,0 @@
----
-expectations:
-- binding: ContarGente
-  inspection: HasUsage:PonerN

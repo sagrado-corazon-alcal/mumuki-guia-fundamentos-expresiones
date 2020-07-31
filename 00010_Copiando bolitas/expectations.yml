@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: CopiarVerdesEnRojas
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: CopiarVerdesEnRojas
   inspection: Uses:PonerN
-- binding: CopiarVerdesEnRojas
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: CopiarVerdesEnRojas
   inspection: Uses:nroBolitas

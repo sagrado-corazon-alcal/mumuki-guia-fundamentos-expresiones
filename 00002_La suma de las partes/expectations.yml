@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: PonerSuma
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: PonerSuma
   inspection: HasUsage:PonerN
-- binding: PonerSuma
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: PonerSuma
   inspection: HasArity:2

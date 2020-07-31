@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: CaminarDesconfiado
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: CaminarDesconfiado
   inspection: HasArity:1
-- binding: CaminarDesconfiado
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: CaminarDesconfiado
   inspection: HasUsage:MoverN

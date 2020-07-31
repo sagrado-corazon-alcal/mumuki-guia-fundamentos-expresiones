@@ -1,4 +1,5 @@
 ---
+locale: es
 tags: []
 layout: input_right
 editor: code
@@ -7,3 +8,4 @@ extra_visible: false
 teacher_info: ''
 manual_evaluation: false
 choices: []
+name: Siga la flecha

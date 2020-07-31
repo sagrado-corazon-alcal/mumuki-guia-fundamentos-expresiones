@@ -3,17 +3,6 @@ name: Expresiones
 locale: es
 type: learning
 beta: false
-teacher_info: |-
-  ### Objetivos principales
-
-  * Introducir las expresiones como evolución "inteligente" de los literales.
-  * Primer acercamiento a programas que dependen del estado inicial del tablero.
-
-  ### Objetivos secundarios
-
-  * Expresiones aritméticas: `+`, `-`, `*`, `div`.
-  * Operaciones sobre direcciones: `opuesto`, `siguiente`, `previo`.
-  * Operaciones que "leen" el estado del tablero: `nroBolitas`.
 language: gobstones
 id_format: "%05d"
 order:
@@ -28,3 +17,4 @@ order:
 - 9
 - 10
 - 11
+private: false

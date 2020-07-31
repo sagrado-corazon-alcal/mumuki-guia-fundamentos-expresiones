@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: SacarTodas
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: SacarTodas
   inspection: HasUsage:nroBolitas
-- binding: SacarTodas
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: SacarTodas
   inspection: HasUsage:SacarN
