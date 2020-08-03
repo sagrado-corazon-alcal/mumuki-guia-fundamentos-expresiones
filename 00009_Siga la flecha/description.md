@@ -37,4 +37,4 @@ Como siempre en programación, lo interesante es combinar nuestras herramientas 
   <tbody>
 </table>
 
-> Definí el procedimiento `Flecha(direccion)` que dibuje una flecha roja en la dirección correspondiente. El cabezal empieza y debe quedar siempre en el centro, como se ve en las imágenes.
+> Definí el procedimiento `Flecha(direccion)` que dibuje una flecha roja en la dirección correspondiente. El cabezal empieza y debe quedar siempre en el centro, como se ve en los tableros de ejemplo.
