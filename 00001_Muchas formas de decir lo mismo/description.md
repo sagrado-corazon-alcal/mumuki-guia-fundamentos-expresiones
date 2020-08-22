@@ -7,4 +7,4 @@ Cuando nos comunicamos con alguien más, usamos palabras o frases para describir
 
 Todas las frases anteriores hablan del **valor** cinco, aunque no lo digan de forma explícita.
 
-> Con esta idea y usando `PonerN`, escribí un programa que ponga cinco bolitas negras, PERO sin escribir el número 5.
+> Con esta idea e invocando `PonerN`, creá un programa que ponga cinco bolitas negras, PERO sin escribir el número 5.
