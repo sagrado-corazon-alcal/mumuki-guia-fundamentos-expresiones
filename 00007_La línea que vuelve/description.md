@@ -1,4 +1,4 @@
-Ahora que sabés usar la función `opuesto`, podemos finalmente resolver el problema de construir un procedimiento que dibuje una línea **en cualquier dirección** y **deje el cabezal en la posición inicial**.
+Ahora que sabés usar la función `opuesto`, podemos finalmente resolver el problema de definir un procedimiento que dibuje una línea **en cualquier dirección** y **deje el cabezal en la posición inicial**.
 
 La versión que sabíamos hacer hasta ahora era esta:
 
