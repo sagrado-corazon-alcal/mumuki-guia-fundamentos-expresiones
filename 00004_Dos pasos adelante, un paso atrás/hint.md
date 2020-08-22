@@ -1,1 +1,1 @@
-Acordate que podés usar `MoverN(cantidad, direccion)`.
+Acordate que podés invocar `MoverN(cantidad, direccion)`.
