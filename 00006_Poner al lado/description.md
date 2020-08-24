@@ -32,4 +32,4 @@ Queremos definir un procedimiento que nos sirva para poner una bolita **al lado*
   <tbody>
 </table>
 
-> Definí el procedimiento `PonerAl(direccion, color)` que resuelva el problema propuesto.
+> Definí el procedimiento `PonerAl(direccion, color)`.
