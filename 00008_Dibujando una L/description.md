@@ -46,4 +46,4 @@ La primera línea es fácil, porque coincide con la dirección que recibimos por
 
 <center> <img src="https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-expresiones/master/images/rosa-de-los-vientos.png" width=300 /> </center> 
 
-> Descubrí cuál de las funciones nuevas tenés que utilizar e implementá el procedimiento `Ele(direccion)`. No te preocupes por la posición inicial del cabezal, nosotros nos encargaremos de ubicarlo en el lugar correspondiente para que la L se pueda dibujar.
+> Descubrí cuál de las funciones nuevas tenés que utilizar y definí el procedimiento `Ele(direccion)`. No te preocupes por la posición inicial del cabezal, nosotros nos encargaremos de ubicarlo en el lugar correspondiente para que la L se pueda dibujar.
