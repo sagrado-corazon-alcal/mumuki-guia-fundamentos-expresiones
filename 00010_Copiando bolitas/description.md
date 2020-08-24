@@ -10,4 +10,4 @@ Miremos algunos ejemplos:
 
 Lo que nos está faltando es una forma de **contar cuántas bolitas verdes hay**, y para eso necesitamos otra función que nos da Gobstones: `nroBolitas(color)`. Lo que hace es simple: nos informa cuántas bolitas de un color determinado hay **en la posición actual**.
 
-> Usando `nroBolitas`, escribí el procedimiento `CopiarVerdesEnRojas()`.
+> Usando `nroBolitas`, definí el procedimiento `CopiarVerdesEnRojas()`.
