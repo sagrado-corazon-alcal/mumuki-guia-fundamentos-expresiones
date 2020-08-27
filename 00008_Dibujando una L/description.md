@@ -1,4 +1,4 @@
-Nuestro objetivo en este ejercicio será realizar un procedimiento capaz de dibujar una letra L de color Azul, pero con la posibilidad de elegir hacia dónde está orientada. A continuación, algunos ejemplos de cómo debería comportarse:
+Nuestro objetivo en este ejercicio será definir un procedimiento capaz de dibujar una letra L de color Azul, pero con la posibilidad de elegir hacia dónde está orientada. A continuación, algunos ejemplos de cómo debería comportarse:
 
 <table class= "table" style="width:100%">
   <thead>
