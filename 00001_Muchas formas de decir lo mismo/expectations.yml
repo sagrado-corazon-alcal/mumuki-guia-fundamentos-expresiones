@@ -2,7 +2,7 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: program
-  inspection: HasUsage:PonerN
+  inspection: Not:HasRepeat
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: program
-  inspection: Not:HasRepeat
+  inspection: UsesMath
