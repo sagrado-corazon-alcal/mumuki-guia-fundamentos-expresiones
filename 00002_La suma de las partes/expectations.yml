@@ -4,5 +4,5 @@ expectations:
   binding: PonerSuma
   inspection: Uses:PonerN
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: PonerSuma
-  inspection: HasArity:2
+  binding: "*"
+  inspection: DeclaresComputationWithArity2:2PonerSuma

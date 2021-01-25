@@ -1,2 +1,2 @@
 expectation "No es necesario usar más de un `PonerN`.":
-  count(uses `PonerN`) <= 1;
+  count(uses `PonerN`) = 1;
