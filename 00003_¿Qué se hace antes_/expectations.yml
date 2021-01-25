@@ -5,7 +5,4 @@ expectations:
   inspection: Uses:PonerN
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: ContarGente
-  inspection: UsesMath
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: ContarGente
   inspection: Not:UsesRepeat
