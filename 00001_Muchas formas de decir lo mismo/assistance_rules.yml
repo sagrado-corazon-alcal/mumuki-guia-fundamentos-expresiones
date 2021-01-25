@@ -6,9 +6,3 @@ rules:
     - program Not:HasRepeat
   then: No hace falta usar `repeat`. Recordá que `PonerN` ya repite `Poner` dentro
     de su definición
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-    these_expectations_failed:
-    - program UsesMath
-  then: Recordá que no podés poner el valor `5` directamente. Tenés que llegar a él
-    con una operación matemática
