@@ -10,5 +10,5 @@ rules:
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     these_expectations_failed:
     - ContarGente UsesMath
-  then: Es necesario ver qué operaciones matemáticas son necesarias para poner la
-    cantidad correcta de bolitas
+  then: Es necesario ver qué operaciones matemáticas son necesarias para calcular
+    la gente y poner la cantidad de bolitas correspondiente
