@@ -1,0 +1,14 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    these_expectations_failed:
+    - ContarGente Not:UsesRepeat
+  then: No hace falta usar `repeat`. Recordá que `PonerN` ya repite `Poner` dentro
+    de su definición
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    these_expectations_failed:
+    - ContarGente UsesMath
+  then: Es necesario ver qué operaciones matemáticas son necesarias para poner la
+    cantidad correcta de bolitas
