@@ -5,7 +5,7 @@ rules:
     these_expectations_failed:
     - PonerSuma UsesMath
   then: Es necesario sumar los valores de `x` e `y` para poner la cantidad de bolitas
-    necesarias
+    necesarias invocando a `PonerN`
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     these_expectations_failed:
