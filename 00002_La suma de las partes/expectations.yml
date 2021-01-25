@@ -3,6 +3,3 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: PonerSuma
   inspection: Uses:PonerN
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: "*"
-  inspection: DeclaresComputationWithArity2:2PonerSuma
