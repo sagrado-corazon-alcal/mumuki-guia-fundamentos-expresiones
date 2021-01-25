@@ -2,7 +2,7 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: ContarGente
-  inspection: HasUsage:PonerN
+  inspection: Uses:PonerN
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: ContarGente
   inspection: UsesMath
