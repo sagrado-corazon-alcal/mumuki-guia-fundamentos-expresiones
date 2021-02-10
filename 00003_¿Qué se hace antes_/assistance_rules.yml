@@ -6,3 +6,15 @@ rules:
     - ContarGente Not:UsesRepeat
   then: No hace falta usar `repeat`. Recordá que `PonerN` ya repite `Poner` dentro
     de su definición
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    these_expectations_failed:
+    - ContarGente UsesMath
+  then: Es necesario ver qué operaciones matemáticas son necesarias para calcular
+    la gente y poner la cantidad de bolitas correspondiente
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    these_expectations_failed:
+    - ContarGente Not:Uses:Poner
+  then: No hace falta invocar a `Poner` en este ejercicio ya que se puede solucionar
+    con `PonerN`
