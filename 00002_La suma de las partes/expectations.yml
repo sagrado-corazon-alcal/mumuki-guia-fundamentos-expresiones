@@ -9,3 +9,9 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: PonerSuma
   inspection: Not:UsesRepeat
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: PonerSuma
+  inspection: UsesPlus
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: PonerSuma
+  inspection: Not:Uses:Poner
