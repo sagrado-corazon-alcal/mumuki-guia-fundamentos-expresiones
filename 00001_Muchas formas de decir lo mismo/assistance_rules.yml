@@ -10,5 +10,4 @@ rules:
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     these_expectations_failed:
     - program UsesMath
-  then: Recordá que no podés poner el valor `5` directamente. Tenés que llegar a él
-    con una operación matemática
+  then: Recordá que para poner  las 5 bolitas tenés usar una operación matemática
