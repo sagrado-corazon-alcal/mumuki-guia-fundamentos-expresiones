@@ -11,3 +11,9 @@ rules:
     these_expectations_failed:
     - program UsesMath
   then: Recordá que para poner  las 5 bolitas tenés usar una operación matemática
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    these_expectations_failed:
+    - program Not:Uses:Poner
+  then: No hace falta invocar a `Poner` en este ejercicio ya que se puede solucionar
+    con `PonerN`
