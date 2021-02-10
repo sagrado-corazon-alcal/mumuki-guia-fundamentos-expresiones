@@ -4,17 +4,17 @@ rules:
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     these_expectations_failed:
     - PonerSuma Not:UsesRepeat
-  then: No hace falta usar `repeat`. Recordá que `PonerN` ya repite `Poner` dentro
+  then: no hace falta usar `repeat`. Recordá que `PonerN` ya repite `Poner` dentro
     de su definición
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     these_expectations_failed:
     - PonerSuma UsesPlus
-  then: Es necesario sumar los valores de `x` e `y` para poner la cantidad de bolitas
+  then: es necesario sumar los valores de `x` e `y` para poner la cantidad de bolitas
     necesarias invocando a `PonerN`
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     these_expectations_failed:
     - PonerSuma Not:Uses:Poner
-  then: No hace falta invocar a `Poner` en este ejercicio ya que se puede solucionar
+  then: no hace falta invocar a `Poner` en este ejercicio ya que se puede solucionar
     con `PonerN`
