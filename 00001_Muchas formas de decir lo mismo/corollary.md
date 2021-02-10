@@ -1,12 +1,12 @@
 Algunas variantes válidas:
 
-```puppet
+```gobstones
 program {
   PonerN(4 + 1, Negro)
 }
 ```
 
-```puppet
+```gobstones
 program {
   PonerN(12 - 7, Negro)
 }
