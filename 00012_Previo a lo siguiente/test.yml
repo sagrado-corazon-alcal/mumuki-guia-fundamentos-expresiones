@@ -1,0 +1,4 @@
+- name: Se eligió la imagen correcta
+  keys:
+    board-example_image: 
+      equal: "4"
