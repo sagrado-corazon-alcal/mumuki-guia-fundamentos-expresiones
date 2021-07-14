@@ -14,10 +14,10 @@ Porque `siguiente(Norte)` es `Este`. Si luego ejecutamos `Mover(previo(Oeste))` 
 
 Porque `previo(Oeste)` es `Sur`. ¡Veamos si se entendió! :smiley: 
 
-Si tenemos este tablero inicial:
-
-<img src="https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-primeros-programas-2020/master/assets/TableroInicial_1613666173929.png" alt="TableroInicial_1613666173929.png" width="auto" height="auto">
-
+> Si tenemos este tablero inicial:
+>
+> <img src="https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-primeros-programas-2020/master/assets/TableroInicial_1613666173929.png" alt="TableroInicial_1613666173929.png" width="auto" height="auto">
+>
 > ¿Qué tablero se consigue luego de invocar el siguiente procedimiento?
 >
 >```gobstones

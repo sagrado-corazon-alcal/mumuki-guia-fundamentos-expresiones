@@ -1,6 +1,6 @@
 Nuestro objetivo en este ejercicio será definir un procedimiento capaz de dibujar una letra L de color Azul, pero con la posibilidad de elegir hacia dónde está orientada. A continuación, algunos ejemplos de cómo debería comportarse:
 
-<table class= "table" style="width:100%">
+<table class= "table table-borderless" style="width:100%">
   <thead>
   <tr>
     <th style="text-align: center">Ele(Norte)</th>

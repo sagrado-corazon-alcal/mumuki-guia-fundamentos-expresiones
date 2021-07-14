@@ -1,69 +1,56 @@
 <div class="board-example-container">
-  <div class="row-flex">
-      <div class="imgblock">
-        <img src="https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-primeros-programas-2020/master/assets/solucion1_1613666363935.png" onclick="selectImage(1)"/>
-      </div>
-      <div class="imgblock">
-        <img src="https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-primeros-programas-2020/master/assets/solucion2_1613666378110.png" onclick="selectImage(2)"/>
-      </div>
-      <div class="imgblock">
-        <img src="https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-primeros-programas-2020/master/assets/solucion3_1613666394544.png" onclick="selectImage(3)"/>
-      </div>
-  </div>
-  <div class="row-flex">
-      <div class="imgblock field radio complementary complementary-radio">
-        <input class="form-control mu-free-form-input" type="radio" name="board-example_image" id="radio_1" value="1" onclick="selectImage(1)"/>
-        <label for="radio_1"></label>
-      </div>
-      <div class="imgblock field radio complementary complementary-radio">
-        <input class="form-control mu-free-form-input" type="radio" name="board-example_image" id="radio_2" value="2" onclick="selectImage(2)"/>
-        <label for="radio_2"></label>
-      </div>
-      <div class="imgblock field radio complementary complementary-radio">
-        <input class="form-control mu-free-form-input" type="radio" name="board-example_image" id="radio_3" value="3" onclick="selectImage(3)"/>
-        <label for="radio_3"></label>
-      </div>
-  </div>
+  <div class="d-flex align-items-center flex-wrap">
+    <div class="col-md-4 d-flex flex-column align-items-center">
+      <img src="https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-primeros-programas-2020/master/assets/solucion1_1613666363935.png" class="pointer w-90" onclick="selectImage(1)"/>
+      <input class="form-check-input m-1 mu-free-form-input" type="radio" name="board-example_image" id="radio_1" value="1" onclick="selectImage(1)"/>
+      <label for="radio_1"></label>
+    </div>
 
-  <div class="row-flex">
-      <div class="imgblock">
-        <img src="https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-primeros-programas-2020/master/assets/solucion5_1613666406346.png" onclick="selectImage(4)"/>
-      </div>
-      <div class="imgblock">
-        <img src="https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-primeros-programas-2020/master/assets/solucion4_1613666422207.png" onclick="selectImage(5)"/>
-      </div>
-      <div class="imgblock">
-        <img src="https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-primeros-programas-2020/master/assets/Boom_1613666462561.png" onclick="selectImage(6)"/>
-      </div>
-  </div>
-  <div class="row-flex">
-      <div class="imgblock field radio complementary complementary-radio">
-        <input class="form-control mu-free-form-input" type="radio" name="board-example_image" id="radio_4" value="4" onclick="selectImage(4)"/>
-        <label for="radio_4"></label>
-      </div>
-      <div class="imgblock field radio complementary complementary-radio">
-        <input class="form-control mu-free-form-input" type="radio" name="board-example_image" id="radio_5" value="5" onclick="selectImage(5)"/>
-        <label for="radio_5"></label>
-      </div>
-      <div class="imgblock field radio complementary complementary-radio">
-        <input class="form-control mu-free-form-input" type="radio" name="board-example_image" id="radio_6" value="6" onclick="selectImage(6)"/>
-        <label for="radio_6"></label>
-      </div>
+    <div class="col-md-4 d-flex flex-column align-items-center">
+      <img src="https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-primeros-programas-2020/master/assets/solucion2_1613666378110.png" class="pointer w-90" onclick="selectImage(2)"/>
+      <input class="form-check-input m-1 mu-free-form-input" type="radio" name="board-example_image" id="radio_2" value="2" onclick="selectImage(2)"/>
+      <label for="radio_2"></label>
+    </div>
+
+    <div class="col-md-4 d-flex flex-column align-items-center">
+      <img src="https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-primeros-programas-2020/master/assets/solucion3_1613666394544.png" class="pointer w-90" onclick="selectImage(3)"/>
+      <input class="form-check-input m-1 mu-free-form-input" type="radio" name="board-example_image" id="radio_3" value="3" onclick="selectImage(3)"/>
+      <label for="radio_3"></label>
+    </div>
+
+    <div class="col-md-4 d-flex flex-column align-items-center">
+      <img src="https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-primeros-programas-2020/master/assets/solucion5_1613666406346.png" class="pointer" onclick="selectImage(4)"/>
+      <input class="form-check-input m-1 mu-free-form-input" type="radio" name="board-example_image" id="radio_4" value="4" onclick="selectImage(4)"/>
+      <label for="radio_4"></label>
+    </div>
+
+    <div class="col-md-4 d-flex flex-column align-items-center">
+      <img src="https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-primeros-programas-2020/master/assets/solucion4_1613666422207.png" class="pointer" onclick="selectImage(5)"/>
+      <input class="form-check-input m-1 mu-free-form-input" type="radio" name="board-example_image" id="radio_5" value="5" onclick="selectImage(5)"/>
+      <label for="radio_5"></label>
+    </div>
+
+    <div class="col-md-4 d-flex flex-column align-items-center">
+      <img src="https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-primeros-programas-2020/master/assets/Boom_1613666462561.png" class="pointer" onclick="selectImage(6)"/>
+      <input class="form-check-input m-1 mu-free-form-input" type="radio" name="board-example_image" id="radio_6" value="6" onclick="selectImage(6)"/>
+      <label for="radio_6"></label>
+    </div>
   </div>
 </div>
+
 
 <script>
   function setSolutionValue(imageIndex) {
     let value = {'board-example_image': imageIndex.toString()}
     $('#solution_content').attr('value', JSON.stringify(value));
   }
-  
+
   function selectImage(imageIndex) {
     $(`#radio_${imageIndex}`).prop("checked", true);
     setSolutionValue(imageIndex);
     $('.mu-free-form-input').change(() => setSolutionValue(imageIndex));
   }
-  
+
   function loadPreviousSolution() {
     let previousValue = $('#solution_content').val();
     if(previousValue) {
@@ -71,46 +58,12 @@
       selectImage(Number.parseInt(currentIndex))
     }
   }
-  
+
   loadPreviousSolution();
 </script>
 
 <style>
-  .row-flex {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-  }
-  .board-example-container {
-    display: block;
-    width: 100%;
-  }
-  .imgblock {
-    flex: 1;
-    float: left;
-    margin: 8px;
-    box-sizing: border-box;
-    vertical-align: middle;
-  }
-  .imgblock img {
-      margin: 5px;
-      width: 250px; 
-      height: auto;
-      vertical-align: middle;
-      cursor: pointer;
-  }
-  input[type="radio"]{
-    margin: 4px 0 0;
-    line-height: normal;
-    border: 0px;
-    width: 100%;
-    height: 1em;
-    background-color: #FF5B81;
-    color: white;
-  }
-  label[for*='radio'] {
-    position: absolute;
-    left: 39%;
-    top: -20px;
+  .w-90 {
+    width: 90%;
   }
 </style>

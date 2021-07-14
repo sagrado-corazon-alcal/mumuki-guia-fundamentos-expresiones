@@ -2,7 +2,7 @@ Ya vimos distintas funciones que a partir de una dirección nos permiten obtener
 
 Como siempre en programación, lo interesante es combinar nuestras herramientas para lograr nuevos objetivos :sunglasses:. Por ejemplo podemos dibujar flechas en una dirección determinada de la siguiente forma:
 
-<table class= "table" style="width:100%">
+<table class= "table table-borderless" style="width:100%">
   <thead>
   <tr>
     <th style="text-align: center">Flecha(Norte)</th>
