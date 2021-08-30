@@ -54,7 +54,7 @@
   function loadPreviousSolution() {
     let previousValue = $('#solution_content').val();
     if(previousValue) {
-      let currentIndex = JSON.parse(previousValue).board-example_image;
+      let currentIndex = JSON.parse(previousValue)['board-example_image'];
       selectImage(Number.parseInt(currentIndex))
     }
   }
