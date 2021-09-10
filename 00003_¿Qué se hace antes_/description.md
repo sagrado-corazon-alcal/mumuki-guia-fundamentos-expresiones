@@ -1,4 +1,4 @@
-De un conocido diario (no podemos revelar su nombre por temas de confidencialidad) nos pidieron definir un procedimiento para contar, aproximadamente, cuánta gente asistió a una determinada manifestación.
+De un conocido diario (no podemos revelar su nombre por temas de confidencialidad) nos pidieron definir un procedimiento para contar, aproximadamente, cuánta gente asistió a una determinada movilización.
 
 Contamos con la información de cuántos micros, autos y bicicletas asistieron y desde allí podemos hacer un cálculo siguiendo estas reglas:
 
