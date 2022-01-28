@@ -1,6 +1,6 @@
-Para ver si entendiste lo anterior, te toca ahora resolver por tu cuenta.
+Para saber si entendiste lo anterior, te toca ahora resolver por tu cuenta.
 
-Queremos definir un procedimiento que nos sirva para poner una bolita **al lado** de donde se encuentre el cabezal, dejándolo en la posición original. Por ejemplo, al invocar `PonerAl(Norte, Verde)` debería poner una bolita verde una posición hacia el Norte, **sin mover** el cabezal (bueno, ya sabemos que en realidad sí se mueve, pero el punto es que en el **resultado final** esto no se tiene que ver).
+Queremos definir un procedimiento que nos sirva para poner una bolita **al lado** de donde se encuentre el cabezal, dejándolo en la posición original. Por ejemplo, al invocar `PonerAl(Norte, Verde)` debería poner una bolita verde una posición hacia el Norte, **sin mover** el cabezal (bueno, ya sabemos que en realidad sí se mueve, pero el punto es que en el **resultado final** esto no se tiene que notar).
 
 <table class= "table table-borderless" style="width:100%">
   <thead>
