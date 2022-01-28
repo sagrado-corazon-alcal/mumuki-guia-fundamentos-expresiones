@@ -1,4 +1,4 @@
-Ya vimos distintas funciones que a partir de una dirección nos permiten obtener otra distintas. 
+Ya conocimos distintas funciones que a partir de una dirección nos permiten obtener otra distintas. 
 
 Como siempre en programación, lo interesante es combinar nuestras herramientas para lograr nuevos objetivos :sunglasses:. Por ejemplo podemos dibujar flechas en una dirección determinada de la siguiente forma:
 
@@ -37,4 +37,4 @@ Como siempre en programación, lo interesante es combinar nuestras herramientas 
   <tbody>
 </table>
 
-> Definí el procedimiento `Flecha(direccion)` que dibuje una flecha roja en la dirección correspondiente. El cabezal empieza y debe quedar siempre en el centro, como se ve en los tableros de ejemplo.
+> Definí el procedimiento `Flecha(direccion)` que dibuje una flecha roja en la dirección correspondiente. El cabezal empieza y debe quedar siempre en el centro, como ocurre en los tableros de ejemplo.
