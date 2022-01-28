@@ -17,4 +17,4 @@ procedure MoverComoSalmon(direccion) {
 }
 ```
 
-> Escribí la solución en el editor y dale Enviar. Vas a ver cómo se mueve el cabezal...
+> Escribí la solución en el editor y dale Enviar. ¿Hacia dónde se moverá el cabezal?
