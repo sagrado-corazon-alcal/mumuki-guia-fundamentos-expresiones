@@ -2,7 +2,7 @@ Supongamos ahora que queremos "copiar" las bolitas verdes, haciendo que haya la 
 
 Una tarea que seguro tenemos que hacer es poner muchas bolitas, y para eso ya sabemos que existe el procedimiento `PonerN` que construimos varios ejercicios atrás. El color de las bolitas que tenemos que poner también lo sabemos: Rojo, pero... ¿cómo sabemos cuántas poner?
 
-Miremos algunos ejemplos:
+Por ejemplo:
 
 * Si hay 4 bolitas verdes, hay que poner 4 bolitas rojas.
 * Si hay 2 bolitas verdes, hay que poner 2 bolitas rojas.
